@@ -1,0 +1,2 @@
+Run the "RUN ALL.py" and it will run all the different files of code for each of my treatments. 
+Most of the custom functions used are in the "FisSimFunctions.py", and the rest are in the treatment code files. 
